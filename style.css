@@ -1,6 +1,8 @@
 /* CSS Document */
 h1{color: red}
-body{
-	background-color: #F2E0E0;
-	color: #F2E0E0
-}
+h2{color: darkgoldenrod}
+h3{color: burlywood}
+h4{color: navy}
+h5{color: rosybrown}
+h6{color: aliceblue}
+p{color: blueviolet}
